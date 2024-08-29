@@ -23,10 +23,6 @@ You should see the following output:
 
 ### Configuration
 
-#### Wallet
-
-- `PRIVATE_KEY` - Your wallet's private key.
-
 #### Connection
 
 - `RPC_ENDPOINT` - HTTPS RPC endpoint for interacting with the Solana network.
