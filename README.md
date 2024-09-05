@@ -146,7 +146,7 @@ To collect more information on an issue, please change `LOG_LEVEL` to `debug`.
 
 ## Contact
 
-[![](https://img.shields.io/discord/1201826085655023616?color=5865F2&logo=Discord&style=flat-square)]( btcgod5642 )
+<img align="center" src="https://seeklogo.com/images/D/discord-logo-7A1EC3216C-seeklogo.com.png" alt="₿TC-$OD: discord id is btcgod5642" height="25" width="25" /> ( btcgod5642 )
 
 - If you want to leave a tip, you can send it to the following address:
   `HFpwqb3J7VS7UUKa5qMQxSqqnxeZBaYRjWYKBb2Whr8E`
