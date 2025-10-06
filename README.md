@@ -144,9 +144,16 @@ To collect more information on an issue, please change `LOG_LEVEL` to `debug`.
 
 ![wsol](readme/wsol.png)
 
-## Contact
+## 🙋‍♂️ Cᴏɴᴛᴀᴄᴛ ᴍᴇ Oɴ ʜᴇʀᴇ: 👋 ##
 
-<img align="center" src="https://seeklogo.com/images/D/discord-logo-7A1EC3216C-seeklogo.com.png" alt="John Criswick: discord id is johncriswick25" height="25" width="25" /> ( johncriswick25 )
+Telegram: https://t.me/opensea712
+
+<div style={{display : flex ; justify-content : space-evenly}}> 
+    <a href="https://t.me/opensea712" target="_blank"><img alt="Telegram"
+        src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+    <a href="https://discordapp.com/users/926111902650732585" target="_blank"><img alt="Discord"
+        src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+</div>
 
 - If you want to leave a tip, you can send it to the following address:
   `HFpwqb3J7VS7UUKa5qMQxSqqnxeZBaYRjWYKBb2Whr8E`
