@@ -5,6 +5,17 @@ It is configured to execute trades based on predefined parameters and strategies
 
 The bot can monitor market conditions in real-time, such as pool burn, mint renounced and other factors, and it will execute trades when these conditions are fulfilled.
 
+## 🙋‍♂️ Cᴏɴᴛᴀᴄᴛ ᴍᴇ Oɴ ʜᴇʀᴇ: 👋 ##
+
+Telegram: https://t.me/opensea712
+
+<div style={{display : flex ; justify-content : space-evenly}}> 
+    <a href="https://t.me/opensea712" target="_blank"><img alt="Telegram"
+        src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+    <a href="https://discordapp.com/users/926111902650732585" target="_blank"><img alt="Discord"
+        src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+</div>
+
 ## Setup
 
 To run the script you need to:
@@ -143,20 +154,6 @@ To collect more information on an issue, please change `LOG_LEVEL` to `debug`.
   - FIX: Go to dex and swap some SOL to USDC/WSOL. For example when you swap sol to wsol you should see it in wallet as shown below:
 
 ![wsol](readme/wsol.png)
-
-## 🙋‍♂️ Cᴏɴᴛᴀᴄᴛ ᴍᴇ Oɴ ʜᴇʀᴇ: 👋 ##
-
-Telegram: https://t.me/opensea712
-
-<div style={{display : flex ; justify-content : space-evenly}}> 
-    <a href="https://t.me/opensea712" target="_blank"><img alt="Telegram"
-        src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-    <a href="https://discordapp.com/users/926111902650732585" target="_blank"><img alt="Discord"
-        src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
-</div>
-
-- If you want to leave a tip, you can send it to the following address:
-  `HFpwqb3J7VS7UUKa5qMQxSqqnxeZBaYRjWYKBb2Whr8E`
 
 - If you need custom features or assistance, feel free to contact on discord for dedicated support.
 
